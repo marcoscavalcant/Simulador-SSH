@@ -26,5 +26,4 @@ Exemplo de Resultado:
 
 Referência:
 
-- Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security.  
-2006. Springer US.1. XVIII, 336.
+- Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security. 2006. Springer US.1. XVIII, 336.
