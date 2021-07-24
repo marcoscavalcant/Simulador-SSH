@@ -19,11 +19,12 @@ Requisitos:
 Resultados:
 - Geração e derivação de seis chaves criptográficas baseadas no protocolo de Diffie-Hellman.
 
-####Exemplo:
+Exemplo de Resultado:
 
 ![Resultado](https://github.com/marcoscavalcant/Simulador-SSH/blob/main/Resultado.png)
 
 
 Referência:
-Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security.  
+
+- Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security.  
 2006. Springer US.1. XVIII, 336.
