@@ -12,6 +12,10 @@ O SSH fornece um canal seguro sobre uma rede insegura em uma arquitetura cliente
 Aplicabilidade:
 - A aplicação cliente e servidor é um simulador do protocolo de autenticação do utilizador Secure Shell (SSH) definido no RFC 4254 que autentica o lado cliente ao servidor. 
 
+Requisitos:
+- Máquina Virtual Java (JVM)
+- Download das aplicações cliente (client.java) e servidor (server.java).
+
 Referência:
 Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security.  
 2006. Springer US.1. XVIII, 336.
