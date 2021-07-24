@@ -21,7 +21,7 @@ Resultados:
 
 ####Exemplo:
 
-{https://github.com/marcoscavalcant/Simulador-SSH/blob/main/Resultado.png}
+![Resultado](https://github.com/marcoscavalcant/Simulador-SSH/blob/main/Resultado.png)
 
 
 Referência:
