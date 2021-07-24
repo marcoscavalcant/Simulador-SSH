@@ -16,6 +16,11 @@ Requisitos:
 - Máquina Virtual Java (JVM)
 - Download das aplicações cliente (client.java) e servidor (server.java).
 
+Resultados:
+- Geração e derivação de seis chaves criptográficas baseadas no protocolo de Diffie-Hellman.
+![Resultado]{}
+
+
 Referência:
 Serge Vaudenay. A Classical Introduction to Cryptography. Applications for Communications Security.  
 2006. Springer US.1. XVIII, 336.
