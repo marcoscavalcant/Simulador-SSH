@@ -1,5 +1,5 @@
 # Simulador-SSH
-Programa que simula o protocolo de geração e troca de chaves do Diffie-Hellman do Secure Shell.
+Programa que simula o protocolo de geração e troca de chaves do Diffie-Hellman do Secure Shell. 🔒️
 
 ### Linguagem Java
 
